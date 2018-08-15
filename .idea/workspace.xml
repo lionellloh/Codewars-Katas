@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fcb154d-36f0-42ed-a44e-66f81a8fa885" name="Default" comment="" />
+    <list default="true" id="4fcb154d-36f0-42ed-a44e-66f81a8fa885" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catching Car's Mileage Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Find all possible number combos that sum to a number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instant Runoff Voting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Largest Numeric Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recover a secret string from random triplets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twice Linear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,36 +19,40 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Katas$Battleship_field_validator.coverage" NAME="Battleship field validator Coverage Results" MODIFIED="1533704791266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Katas$Twice_Linear.coverage" NAME="Twice Linear Coverage Results" MODIFIED="1533917810518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Convert_PascalCase_string_into_snake_case.coverage" NAME="Convert PascalCase string into snake_case Coverage Results" MODIFIED="1533697428776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Katas$Roman_Numeral_Helper.coverage" NAME="Roman Numeral Helper Coverage Results" MODIFIED="1533706125170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Katas$Roman_Numeral_Helper.coverage" NAME="Roman Numeral Helper Coverage Results" MODIFIED="1533907914045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Katas$Instant_Runoff_Voting.coverage" NAME="Instant Runoff Voting Coverage Results" MODIFIED="1533917808606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1908765902">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="142" />
-          <entry key="py" value="3195" />
+          <entry key="py" value="5247" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3337" />
+          <entry key="Python" value="5389" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -48,28 +61,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Boggle Word Checker.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opened_must_be_closed.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Convert PascalCase string into snake_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -83,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Battleship field validator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-96">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="15">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <marker date="1533704550003" expanded="true" signature="1051:1053" ph="..." />
               </folding>
@@ -96,9 +91,63 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Instant Runoff Voting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="28" selection-start-line="3" selection-end-line="67" selection-end-column="22" />
+              <folding>
+                <marker date="1533909236748" expanded="true" signature="1458:1462" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Catching Car's Mileage Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twice Linear.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <marker date="1533917861454" expanded="true" signature="31:115" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Recover a secret string from random triplets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding>
+                <marker date="1534047680569" expanded="true" signature="99:170" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Largest Numeric Palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="43335">
               <caret line="2962" selection-start-line="2962" selection-end-line="2962" />
             </state>
           </provider>
@@ -116,7 +165,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>isupper</find>
+      <find>num_</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -127,6 +180,12 @@
         <option value="$PROJECT_DIR$/ASCII85 Encoding &amp; Decoding.py" />
         <option value="$PROJECT_DIR$/Battleship field validator.py" />
         <option value="$PROJECT_DIR$/Roman Numeral Helper.py" />
+        <option value="$PROJECT_DIR$/Instant Runoff Voting.py" />
+        <option value="$PROJECT_DIR$/Catching Car's Mileage Number.py" />
+        <option value="$PROJECT_DIR$/Twice Linear.py" />
+        <option value="$PROJECT_DIR$/Recover a secret string from random triplets.py" />
+        <option value="$PROJECT_DIR$/Largest Numeric Palindrome.py" />
+        <option value="$PROJECT_DIR$/Find all possible number combos that sum to a number.py" />
       </list>
     </option>
   </component>
@@ -137,10 +196,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1657" />
-    <option name="y" value="-220" />
-    <option name="width" value="2343" />
-    <option name="height" value="1294" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -178,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Roman Numeral Helper">
+  <component name="RunManager" selected="Python.Twice Linear">
     <configuration name="Battleship field validator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,6 +284,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Instant Runoff Voting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Katas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Instant Runoff Voting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Roman Numeral Helper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opened_must_be_closed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Twice Linear" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,7 +341,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opened_must_be_closed.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Twice Linear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,17 +351,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.opened_must_be_closed" />
       <item itemvalue="Python.Convert PascalCase string into snake_case" />
       <item itemvalue="Python.Battleship field validator" />
       <item itemvalue="Python.Roman Numeral Helper" />
+      <item itemvalue="Python.Instant Runoff Voting" />
+      <item itemvalue="Python.Twice Linear" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Twice Linear" />
+        <item itemvalue="Python.Instant Runoff Voting" />
         <item itemvalue="Python.Roman Numeral Helper" />
         <item itemvalue="Python.Battleship field validator" />
         <item itemvalue="Python.Convert PascalCase string into snake_case" />
-        <item itemvalue="Python.opened_must_be_closed" />
       </list>
     </recent_temporary>
   </component>
@@ -296,30 +381,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1657" y="-220" width="2343" height="1294" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="810" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.111690566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18597998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2465181" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3294509" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3294509" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +414,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Roman Numeral Helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="16" column="62" lean-forward="true" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <marker date="1533706125161" expanded="true" signature="330:352" ph="..." />
+            <marker date="1533706125161" expanded="true" signature="405:828" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Boggle Word Checker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -343,17 +439,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="2962" selection-start-line="2962" selection-end-line="2962" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Convert PascalCase string into snake_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
@@ -364,24 +453,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Roman Numeral Helper.py">
+    <entry file="file:///usr/local/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="16" column="62" lean-forward="true" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-          <folding>
-            <marker date="1533706125161" expanded="true" signature="330:352" ph="..." />
-            <marker date="1533706125161" expanded="true" signature="405:828" ph="..." />
-          </folding>
+        <state relative-caret-position="43335">
+          <caret line="2962" selection-start-line="2962" selection-end-line="2962" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Battleship field validator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="15">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding>
             <marker date="1533704550003" expanded="true" signature="1051:1053" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instant Runoff Voting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="28" selection-start-line="3" selection-end-line="67" selection-end-column="22" />
+          <folding>
+            <marker date="1533909236748" expanded="true" signature="1458:1462" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catching Car's Mileage Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twice Linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <marker date="1533917861454" expanded="true" signature="31:115" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recover a secret string from random triplets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <marker date="1534047680569" expanded="true" signature="99:170" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Find all possible number combos that sum to a number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <marker date="1534048324717" expanded="true" signature="106:111" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Largest Numeric Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
