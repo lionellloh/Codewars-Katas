@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcb154d-36f0-42ed-a44e-66f81a8fa885" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catching Car's Mileage Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Find all possible number combos that sum to a number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instant Runoff Voting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Largest Numeric Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recover a secret string from random triplets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twice Linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infinite digital string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Square into Squares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Katas$Battleship_field_validator.coverage" NAME="Battleship field validator Coverage Results" MODIFIED="1533704791266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Katas$Infinite_digital_string.coverage" NAME="Infinite digital string Coverage Results" MODIFIED="1535008426518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Twice_Linear.coverage" NAME="Twice Linear Coverage Results" MODIFIED="1533917810518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Convert_PascalCase_string_into_snake_case.coverage" NAME="Convert PascalCase string into snake_case Coverage Results" MODIFIED="1533697428776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Roman_Numeral_Helper.coverage" NAME="Roman Numeral Helper Coverage Results" MODIFIED="1533907914045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -28,31 +24,32 @@
     <session id="1908765902">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="11" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="142" />
-          <entry key="py" value="5247" />
+          <entry key="Python Console" value="177" />
+          <entry key="py" value="6301" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5389" />
+          <entry key="Python" value="6478" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -60,15 +57,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Convert PascalCase string into snake_case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ASCII85 Encoding &amp; Decoding.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Battleship field validator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="390">
               <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <marker date="1533704550003" expanded="true" signature="1051:1053" ph="..." />
@@ -135,11 +123,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Largest Numeric Palindrome.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Infinite digital string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+              <folding>
+                <marker date="1535008679968" expanded="true" signature="428:505" ph="..." />
+                <marker date="1535008679968" expanded="true" signature="527:528" ph="..." />
+                <marker date="1535008679968" expanded="true" signature="527:532" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Square into Squares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -186,6 +197,8 @@
         <option value="$PROJECT_DIR$/Recover a secret string from random triplets.py" />
         <option value="$PROJECT_DIR$/Largest Numeric Palindrome.py" />
         <option value="$PROJECT_DIR$/Find all possible number combos that sum to a number.py" />
+        <option value="$PROJECT_DIR$/Infinite digital string.py" />
+        <option value="$PROJECT_DIR$/Square into Squares.py" />
       </list>
     </option>
   </component>
@@ -195,10 +208,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="810" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2344" />
+    <option name="y" value="-77" />
+    <option name="width" value="1565" />
+    <option name="height" value="929" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -208,7 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,6 +233,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Twice Linear">
+  <component name="RunManager" selected="Python.Infinite digital string">
     <configuration name="Battleship field validator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Convert PascalCase string into snake_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Infinite digital string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,7 +289,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Convert PascalCase string into snake_case.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Infinite digital string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,19 +365,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Convert PascalCase string into snake_case" />
       <item itemvalue="Python.Battleship field validator" />
       <item itemvalue="Python.Roman Numeral Helper" />
       <item itemvalue="Python.Instant Runoff Voting" />
       <item itemvalue="Python.Twice Linear" />
+      <item itemvalue="Python.Infinite digital string" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Infinite digital string" />
         <item itemvalue="Python.Twice Linear" />
         <item itemvalue="Python.Instant Runoff Voting" />
         <item itemvalue="Python.Roman Numeral Helper" />
         <item itemvalue="Python.Battleship field validator" />
-        <item itemvalue="Python.Convert PascalCase string into snake_case" />
       </list>
     </recent_temporary>
   </component>
@@ -381,15 +395,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="1" />
+    <frame x="2344" y="-77" width="1565" height="929" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18597998" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17268549" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2465181" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24611709" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -397,7 +411,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3294509" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3294509" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32855436" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -439,6 +453,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Find all possible number combos that sum to a number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Convert PascalCase string into snake_case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -453,16 +474,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43335">
-          <caret line="2962" selection-start-line="2962" selection-end-line="2962" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Battleship field validator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="390">
           <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding>
             <marker date="1533704550003" expanded="true" signature="1051:1053" ph="..." />
@@ -507,13 +521,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Find all possible number combos that sum to a number.py">
+    <entry file="file:///usr/local/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <marker date="1534048324717" expanded="true" signature="106:111" ph="..." />
-          </folding>
+        <state relative-caret-position="43335">
+          <caret line="2962" selection-start-line="2962" selection-end-line="2962" />
         </state>
       </provider>
     </entry>
@@ -521,6 +532,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infinite digital string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <marker date="1535008679968" expanded="true" signature="428:505" ph="..." />
+            <marker date="1535008679968" expanded="true" signature="527:528" ph="..." />
+            <marker date="1535008679968" expanded="true" signature="527:532" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Square into Squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
