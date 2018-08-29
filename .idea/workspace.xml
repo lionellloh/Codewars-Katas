@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fcb154d-36f0-42ed-a44e-66f81a8fa885" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Decimal to irrational base converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dithering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flappy Bird.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum By Factors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTag generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Last Digits.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,14 +15,16 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Katas$Battleship_field_validator.coverage" NAME="Battleship field validator Coverage Results" MODIFIED="1533704791266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Infinite_digital_string.coverage" NAME="Infinite digital string Coverage Results" MODIFIED="1535012375518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Katas$Last_Digits.coverage" NAME="Last Digits Coverage Results" MODIFIED="1535542743180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Katas$Decimal_to_irrational_base_converter.coverage" NAME="Decimal to irrational base converter Coverage Results" MODIFIED="1535541342662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Katas$Roman_Numeral_Helper.coverage" NAME="Roman Numeral Helper Coverage Results" MODIFIED="1533907914045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Square_into_Squares.coverage" NAME="Square into Squares Coverage Results" MODIFIED="1535534228103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Simple_Pig_Latin.coverage" NAME="Simple Pig Latin Coverage Results" MODIFIED="1535537450586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Katas$HashTag_generator.coverage" NAME="HashTag generator Coverage Results" MODIFIED="1535542961321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Twice_Linear.coverage" NAME="Twice Linear Coverage Results" MODIFIED="1533917810518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Sum_By_Factors.coverage" NAME="Sum By Factors Coverage Results" MODIFIED="1535539413583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Convert_PascalCase_string_into_snake_case.coverage" NAME="Convert PascalCase string into snake_case Coverage Results" MODIFIED="1533697428776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$The_Observed_Pin.coverage" NAME="The Observed Pin Coverage Results" MODIFIED="1535536202412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Katas$Decimal_to_irrational_base_converter.coverage" NAME="Decimal to irrational base converter Coverage Results" MODIFIED="1535540584611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Katas$Roman_Numeral_Helper.coverage" NAME="Roman Numeral Helper Coverage Results" MODIFIED="1533907914045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas$Instant_Runoff_Voting.coverage" NAME="Instant Runoff Voting Coverage Results" MODIFIED="1533917808606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -42,23 +42,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="py" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="Python" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="273" />
-          <entry key="py" value="10225" />
+          <entry key="Python Console" value="344" />
+          <entry key="py" value="11203" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="10498" />
+          <entry key="Python" value="11547" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -131,15 +131,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Decimal to irrational base converter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="148">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding>
                 <marker date="1535540584603" expanded="true" signature="319:320" ph="..." />
                 <marker date="1535540584603" expanded="true" signature="319:452" ph="..." />
                 <marker date="1535540584603" expanded="true" signature="339:344" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Last Digits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <marker date="1535542324618" expanded="true" signature="108:113" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HashTag generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <marker date="1535542817072" expanded="true" signature="69:70" ph="..." />
+                <marker date="1535542817072" expanded="true" signature="69:74" ph="..." />
               </folding>
             </state>
           </provider>
@@ -195,6 +220,8 @@
         <option value="$PROJECT_DIR$/Flappy Bird.py" />
         <option value="$PROJECT_DIR$/Dithering.py" />
         <option value="$PROJECT_DIR$/Decimal to irrational base converter.py" />
+        <option value="$PROJECT_DIR$/Last Digits.py" />
+        <option value="$PROJECT_DIR$/HashTag generator.py" />
       </list>
     </option>
   </component>
@@ -205,8 +232,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2658" />
-    <option name="y" value="-220" />
+    <option name="x" value="2311" />
+    <option name="y" value="-170" />
     <option name="width" value="1565" />
     <option name="height" value="815" />
   </component>
@@ -249,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Decimal to irrational base converter">
+  <component name="RunManager" selected="Python.HashTag generator">
     <configuration name="Decimal to irrational base converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,6 +291,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decimal to irrational base converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HashTag generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Katas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashTag generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Last Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Katas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Last Digits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,28 +365,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Square into Squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Katas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Square into Squares.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Sum By Factors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,42 +387,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The Observed Pin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Katas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Observed Pin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Square into Squares" />
-      <item itemvalue="Python.The Observed Pin" />
       <item itemvalue="Python.Simple Pig Latin" />
       <item itemvalue="Python.Sum By Factors" />
       <item itemvalue="Python.Decimal to irrational base converter" />
+      <item itemvalue="Python.Last Digits" />
+      <item itemvalue="Python.HashTag generator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HashTag generator" />
+        <item itemvalue="Python.Last Digits" />
         <item itemvalue="Python.Decimal to irrational base converter" />
         <item itemvalue="Python.Sum By Factors" />
         <item itemvalue="Python.Simple Pig Latin" />
-        <item itemvalue="Python.The Observed Pin" />
-        <item itemvalue="Python.Square into Squares" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +418,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2658" y="-220" width="1565" height="815" extended-state="0" />
+    <frame x="2311" y="-170" width="1565" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17662509" />
@@ -407,7 +434,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3294509" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32846716" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32780084" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -585,12 +612,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Decimal to irrational base converter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="148">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <marker date="1535540584603" expanded="true" signature="319:320" ph="..." />
             <marker date="1535540584603" expanded="true" signature="319:452" ph="..." />
             <marker date="1535540584603" expanded="true" signature="339:344" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Last Digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <marker date="1535542324618" expanded="true" signature="108:113" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTag generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1535542817072" expanded="true" signature="69:70" ph="..." />
+            <marker date="1535542817072" expanded="true" signature="69:74" ph="..." />
           </folding>
         </state>
       </provider>
