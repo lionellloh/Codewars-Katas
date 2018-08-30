@@ -2,7 +2,6 @@
 
 def format_duration(seconds):
     print(seconds)
-    if seconds == None or seconds == 0:
         return "now"
     sec = 1
     min = 60
