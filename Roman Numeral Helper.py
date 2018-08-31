@@ -13,8 +13,8 @@ M          1,000
 """
 
 class RomanNumerals(object):
-    denominations = [1, 4, 5, 10, 50, 100, 500, 1000]
-    roman_numerals = ["I", "IV", "V", "X", "L", "C", "D", "M"]
+    denominations = [1, 5, 10, 50, 100, 500, 1000]
+    roman_numerals = ["I", "V", "X", "L", "C", "D", "M"]
 
 
     @classmethod
@@ -50,3 +50,11 @@ class RomanNumerals(object):
 
 print(RomanNumerals.from_roman("CCCCLXXXXVIIII"))
 print(RomanNumerals.to_roman(1990))
+
+
+
+def to_roman(1000):
+    denominations = [1, 5, 10, 50, 100, 500, 1000]
+    roman_numerals = ["I", "V", "X", "L", "C", "D", "M"]
+
+
